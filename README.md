@@ -1,7 +1,6 @@
 # Configuring and Extending Dynamics 365 Customer Engagement [Video]
 This is the code repository for [Configuring and Extending Dynamics 365 Customer Engagement [Video]](https://www.packtpub.com/game-development/configuring-and-extending-dynamics-365-customer-engagement-video?utm_source=github&utm_medium=repository&utm_campaign=9781788290319), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-	Dynamics 365 is currently the result of Microsoft merging its traditional CRM platform with its ERP one. The platform is not only capable of typical salesforce automation and ERP functionality, but can also be extended to serve various other purposes. This course focuses on the various deployment models, as well as the overall platform structure.
 
 Microsoft Dynamics 365 is currently the result of Microsoft merging its traditional CRM platform with its ERP one. While the Dynamics CRM platform was already one of the leaders in the market, this new ability to unify traditional CRM with ERP functionality with reduced effort may well be the differentiating factor going forward. The platform is not only capable of typical salesforce automation and ERP functionality, but can also be extended to serve various other purposes. This flexibility, along with the various deployment options available, makes it a very enticing proposition for businesses of any size.
 
