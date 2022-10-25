@@ -45,3 +45,7 @@ Supported device, Microsoft Dynamics 365 app, or web browser, such as later vers
 
 * [Start Up Guide For Microsoft Dynamics 365 [Video]](https://www.packtpub.com/business/start-guide-microsoft-dynamics-365-video?utm_source=github&utm_medium=repository&utm_campaign=9781788296328)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788290319">https://packt.link/free-ebook/9781788290319 </a> </p>
